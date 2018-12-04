@@ -7,6 +7,8 @@
 
 #define DHTPIN 5     // Pin D1 
 
+//eine aenderung
+
 // Uncomment whatever type you're using!
 #define DHTTYPE DHT11   // DHT 11
 //#define DHTTYPE DHT22   // DHT 22  (AM2302), AM2321
